@@ -10,7 +10,7 @@ I am a passionate Tech CS student, driven by a curiosity for technology and a lo
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,csharp,dotnet,rust,python,tensorflow,pytorch,react, springboot,mysql,firebase,junit,cypress,kotlin,jira,docker,kubernetes,azure,mqtt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,csharp,dotnet,rust,python,react, springboot,mysql,firebase,junit,cypress)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
