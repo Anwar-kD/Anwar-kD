@@ -10,7 +10,7 @@ I am a passionate Tech CS student, driven by a curiosity for technology and a lo
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,react,springboot,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,react,typescript,mysql)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
